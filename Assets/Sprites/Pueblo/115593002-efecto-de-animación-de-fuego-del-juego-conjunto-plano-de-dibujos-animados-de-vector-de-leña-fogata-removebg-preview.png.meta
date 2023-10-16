@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 342981fcc3683774ca95d67f5e751956
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323.3333
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4066e385c877ae14381fb374fac3441c
+      internalID: 1551202352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_1"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 323.3333
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad6c4e5290f84488396fcc454f992f
+      internalID: -1351415987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_2"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 323.3333
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c63bfa56e5027b41b162d443c2013d3
+      internalID: -130847409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_3"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 323.3333
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dd783de6bbd0d488f711a53730242e
+      internalID: -1493362633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162.33333
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537fae3c0b31caf4ab71ea91c065c274
+      internalID: 323970759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_5"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 162.33333
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36614b0e95d7c84d80f4d61a0050c72
+      internalID: 1576631530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_6"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 162.33333
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe0d1cf4e80ba84f9bc07a4a3911a07
+      internalID: 1581647803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_7"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 162.33333
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5465d12fe308fa443bd5c9530d8ed9f5
+      internalID: -323409968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53be90774fbdca448b93a6891f016137
+      internalID: 1412356756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_9"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1.3333282
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b69944b9817ab4d8b393844a8cd3f3
+      internalID: -1683434219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_10"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1.3333282
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a870e4462aabd4da88f06bf6355bb7
+      internalID: -249494417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_11"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1.3333282
+        width: 125
+        height: 161.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff94b6f256c114545bd9cc934092ac87
+      internalID: 1550281003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f0c5de7a777feb34dabe00ee16e0c096
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_0": 1551202352
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_1": -1351415987
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_10": -249494417
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_11": 1550281003
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_2": -130847409
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_3": -1493362633
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_4": 323970759
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_5": 1576631530
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_6": 1581647803
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_7": -323409968
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_8": 1412356756
+      "115593002-efecto-de-animaci\xF3n-de-fuego-del-juego-conjunto-plano-de-dibujos-animados-de-vector-de-le\xF1a-fogata-removebg-preview_9": -1683434219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
